@@ -35,6 +35,6 @@ Security-focused software developer building efficient and maintainable tools.
 - Document design choices directly in code.  
 
 ## Contact
-- Email: salih@proton.me 
+- Email: salihcagil@proton.me 
 
 > “Security is not a product, but a process.” — Bruce Schneier

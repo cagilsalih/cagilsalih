@@ -1,35 +1,40 @@
 # Hi, I'm Salih Cagil
 
-Security-minded software developer. I design fast and maintainable tools for real use.
+Security-focused software developer building efficient and maintainable tools.
 
 ## Interests
 - Python, JavaScript, Bash  
 - Linux systems and automation  
-- Web security, 2FA with YubiKey  
-- APIs, CLI utilities, containers  
+- Web security, YubiKey and 2FA  
+- APIs, CLI utilities, containerized apps  
+- iOS development with Swift and SwiftUI  
 
 ## Current Focus
-- Security-oriented automation scripts  
-- Privacy tooling for everyday workflows  
-- Contributing to open-source  
+- Security and privacy automation tools  
+- Cross-platform utilities (Windows, Linux, iOS)  
+- Open-source development and documentation  
 
 ## Tech Stack
-- Languages: Python, JavaScript, Shell  
-- Platforms: Linux, Windows 11  
-- Tools: Git, Docker, VS Code, AIDA64  
-- Cloud: GitHub, pCloud, Proton services  
+- **Languages:** Python, JavaScript, Swift, Shell  
+- **Platforms:** Linux, Windows 11, iOS  
+- **Tools:** Git, Docker, VS Code, AIDA64  
+- **Cloud:** GitHub, pCloud, Proton services  
 
-## Selected Work
-- **YubiAuth CLI** — command-line 2FA tool integrating YubiKey and password managers.  
-- **AutoShield** — Python-based system hardening and privacy automation for Windows/Linux.  
-- **SecureSync** — end-to-end encrypted cloud sync script using pCloud API.  
+## Featured Projects
+- [**KeyAuth**](https://github.com/cagilsalih/keyauth) — YubiKey-integrated CLI for OTP and password manager authentication.  
+- [**ShieldOps**](https://github.com/cagilsalih/shieldops) — Cross-platform system hardening and privacy automation.  
+- [**VaultSync**](https://github.com/cagilsalih/vaultsync) — Encrypted cloud synchronization using strong symmetric encryption.  
+- [**LogGuardian**](https://github.com/cagilsalih/logguardian) — Log analyzer that detects failed login attempts across systems.  
+- [**NetScope**](https://github.com/cagilsalih/netscope) — Concurrent network port scanner with IP range support.  
+- [**Cryptex**](https://github.com/cagilsalih/cryptex) — Minimal file encryption app with a simple Tkinter GUI.  
+- [**iOS Secure Notes**](https://github.com/cagilsalih/ios-secure-notes) — SwiftUI app template that stores encrypted notes in the iOS Keychain.  
 
 ## How I work
 - Test early. Automate repetitive steps.  
 - Prefer simple, auditable solutions.  
-- Document decisions in the repo.  
+- Document design choices directly in code.  
 
 ## Contact
-- Email: <salihcagil@proton.me>  
+- Email: salih@proton.me 
 
 > “Security is not a product, but a process.” — Bruce Schneier

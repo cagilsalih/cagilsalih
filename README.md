@@ -17,6 +17,26 @@ Security-focused software developer building efficient and maintainable tools.
 ## Tech Stack
 ### 🧰 Tech Stack & Tools
 <p align="center">
+  <!-- Salesforce Ecosystem -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex%20Code-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Apex" />
+  <img src="https://img.shields.io/badge/Lightning%20Web%20Components-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="LWC" />
+  <img src="https://img.shields.io/badge/Flow%20Builder-1E8CBE?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Salesforce Flow" />
+  <img src="https://img.shields.io/badge/Salesforce%20Cloud%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Salesforce Cloud" />
+  <img src="https://img.shields.io/badge/Salesforce%20API%20Integration-00A1E0?style=for-the-badge&logo=postman&logoColor=white" height="28" alt="Salesforce API" />
+</p>
+
+<p align="center">
+  <!-- Certifications -->
+  <img src="https://img.shields.io/badge/Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Platform Developer I" />
+  <img src="https://img.shields.io/badge/Platform%20Developer%20II-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Platform Developer II" />
+  <img src="https://img.shields.io/badge/Administrator-1E8CBE?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Administrator" />
+  <img src="https://img.shields.io/badge/App%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="App Builder" />
+  <img src="https://img.shields.io/badge/JavaScript%20Developer%20I-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="JavaScript Developer I" />
+  <img src="https://img.shields.io/badge/Security%20Specialist-0070D2?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Security Specialist" />
+</p>
+
+<p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />

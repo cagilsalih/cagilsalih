@@ -94,10 +94,44 @@ Security-focused software developer building efficient and maintainable tools.
 
 ---
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagilsalih&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagilsalih&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=cagilsalih)
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  
+  <h3>📈 Overall Stats</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=cagilsalih&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+  
+</td>
+<td align="center" width="33%">
+  
+  <h3>💡 Most Used Languages</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagilsalih&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+  
+</td>
+<td align="center" width="33%">
+  
+  <h3>🔥 Contribution Streak</h3>
+  
+  <img src="https://streak-stats.demolab.com?user=cagilsalih&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%"/>
+  
+</td>
+</tr>
+</table>
+
+---
+
+### 🕓 Contribution Activity (Dynamic Graph)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cagilsalih&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</p>
+
 
 ---
 

@@ -90,7 +90,6 @@ Security-focused software developer building efficient and maintainable tools.
 
 ## Contact
 - 📧 **Email:** [salihcagil@proton.me](mailto:salihcagil@proton.me)
-- 💼 **LinkedIn:** [linkedin.com/in/cagilsalih](https://linkedin.com/in/cagilsalih)
 - 🌐 **Website:** [cagilsalih.github.io](https://cagilsalih.github.io)
 
 ---

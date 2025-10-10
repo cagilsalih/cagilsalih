@@ -1,4 +1,4 @@
-# Hi, I'm Salih Cagil
+# Hi, I'm Salih
 
 Security-focused software developer building efficient and maintainable tools.
 
